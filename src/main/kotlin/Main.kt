@@ -101,6 +101,6 @@ fun main() {
             }
         }else life--
     }
-    if (life > 0) println("Congratulation")
-    else println("Answer was $word")
+    if (life > 0) println("Glückwunsch")
+    else println("Wort ist: $word")
 }
